@@ -1,4 +1,10 @@
-
 body {
     font-family: Arial;
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
 }
